@@ -1,3 +1,2 @@
-This repo is a snippet. It will NOT compile.
-
-It is missing an initialized `App` along with Database pool connection logic. 
+* This was part of an attempt to respond to an Opaleye issue:
+  <https://github.com/tomjaguarpaw/haskell-opaleye/issues/610>
